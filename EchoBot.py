@@ -14,13 +14,10 @@ while (x == 1):
 	print("You said: " + stuff_to_echo)
 
 
-# In creating Echo Chatbot, you’re already implementing 
-# some patterns that you’ll use as you develop more complex chatbot programs:
-# Greeting a user.
-# Informing the user that they are interacting with a bot (and not a human).
-# Instructing the user on how to interact with the bot.
-# Accepting user input.
-# Setting up output that is dependent on user input.
-# Want to extend this project further? Try adding more lines of input and output to craft a 
-# funny sort of conversation. 
-# You can also ask for the user’s name and then use it in subsequent outputs.
+# In creating Echo Chatbot, I implement
+# some patterns that I’ll use as I develop more complex chatbot programs:
+# 1. Greeting a user.
+# 2. Informing the user that they are interacting with a bot (and not a human).
+# 3. Instructing the user on how to interact with the bot.
+# 4. Accepting user input.
+# 5. Setting up output that is dependent on user input.
